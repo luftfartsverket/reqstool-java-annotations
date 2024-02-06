@@ -1,0 +1,39 @@
+== Usage
+
+=== Annotations
+
+The annotations available to use are `@Requirements` and `@SVCs`.
+
+Example usage of `@Requirements` annotations:
+
+- Single argument
+
+[source,java]
+----
+@Requirements("REQ_020")
+public void someMethod() {
+		System.out.println("Some Method");
+	}
+----
+
+- Multiple arguments
+
+[source,java]
+----
+@Requirements({ "REQ_010", "ext-001:REQ_100" })
+public void otherMethod() {
+		System.out.println("Other Method");
+	}
+----
+
+The same structure is used for `@SVCs` annotations.
+
+=== Processors
+
+Collects annotations data, formats it and generates yaml files containing all annotations, one file for `@Requirements` and one file for `@SVCs`.
+
+Processors save the YAML files as `annotations.yml`.
+
+YAML file containing `@Requirements` annotations is generated in `/target/generated-sources/annotations/resources`
+
+YAML file containing `@SVCs` annotations is generated in `/target/generated-test-sources/test-annotations/resources`
