@@ -1,9 +1,9 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/asciidoctor/asciidoctor-intellij-plugin/main/src/main/resources/jsonSchemas/antoraPlaybookSchema.json
 
 site:
-  title: Requirements Tool Documentation
+  title: Reqstool Documentation
   url: https://github.com/luftfartsverket/reqstool-java-annotations
-  start_page: requirements-tool-annotations-java::index.adoc
+  start_page: reqstool-annotations-java::index.adoc
 
 content:
   sources:

@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/asciidoctor/asciidoctor-intellij-plugin/main/src/main/resources/jsonSchemas/antoraComponentSchema.json
 
-name: requirements-tool-annotations-java
-title: Requirements Tool Annotations Java
+name: reqstool-annotations-java
+title: Reqstool Annotations Java
 version: 0.0.1
 nav:
   - modules/ROOT/nav.adoc

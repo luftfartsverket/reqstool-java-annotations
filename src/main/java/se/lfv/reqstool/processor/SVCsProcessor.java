@@ -1,3 +1,4 @@
+// Copyright © LFV
 package se.lfv.reqstool.processor;
 
 import java.util.Arrays;
