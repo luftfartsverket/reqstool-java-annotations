@@ -1,5 +1,6 @@
 
 image:https://img.shields.io/github/commit-activity/m/Luftfartsverket/reqstool-java-annotations?label=commits&style=for-the-badge["Commit Activity", link="https://github.com/Luftfartsverket/reqstool-java-annotations/pulse"]
 image:https://img.shields.io/github/issues/Luftfartsverket/reqstool-java-annotations?style=for-the-badge&logo=github["GitHub Issues", link="https://github.com/Luftfartsverket/reqstool-java-annotations/issues"]
+image:https://img.shields.io/badge/Java-21-brightgreen.svg?style=for-the-badge["JVM support", link="https://sdkman.io"]
 image:https://img.shields.io/github/license/Luftfartsverket/reqstool-java-annotations?style=for-the-badge&logo=opensourceinitiative["License", link="https://opensource.org/license/mit/"]
 image:https://img.shields.io/github/actions/workflow/status/Luftfartsverket/reqstool-java-annotations/build.yml?style=for-the-badge&logo=github["Build", link="https://github.com/Luftfartsverket/reqstool-java-annotations/actions/workflows/build.yml"]
