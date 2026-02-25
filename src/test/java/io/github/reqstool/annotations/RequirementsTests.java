@@ -1,5 +1,5 @@
 // Copyright © LFV
-package se.lfv.reqstool.annotations;
+package io.github.reqstool.annotations;
 
 import static org.hamcrest.CoreMatchers.is;
 import static org.hamcrest.MatcherAssert.assertThat;

@@ -1,7 +1,7 @@
 // Copyright © LFV
-package se.lfv.reqstool.annotations;
+package io.github.reqstool.annotations;
 
-import se.lfv.reqstool.annotations.SVCs;
+import io.github.reqstool.annotations.SVCs;
 
 @SVCs({ "SVC_001", "SVC_002", "SVC_003" })
 public class SVCsExample {

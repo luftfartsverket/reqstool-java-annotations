@@ -1,5 +1,5 @@
 // Copyright © LFV
-package se.lfv.reqstool.processor;
+package io.github.reqstool.processor;
 
 import javax.lang.model.element.ElementKind;
 

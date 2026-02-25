@@ -1,5 +1,5 @@
 // Copyright © LFV
-package se.lfv.reqstool.annotations;
+package io.github.reqstool.annotations;
 
 import java.lang.annotation.Documented;
 
