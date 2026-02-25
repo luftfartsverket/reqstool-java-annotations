@@ -7,7 +7,7 @@ To add dependency using Maven, add the following to your `pom.xml`:
 <dependency>
 	<groupId>io.github.reqstool</groupId>
 	<artifactId>reqstool-java-annotations</artifactId>
-	<version>0.1.0</version>
+	<version>1.0.0</version>
 </dependency>
 ----
 
