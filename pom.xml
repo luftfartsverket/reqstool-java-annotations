@@ -22,10 +22,9 @@
 
     <developers>
         <developer>
-            <name>LFV System Development Team</name>
-            <email>sysdev@lfv.se</email>
-            <organization>Luftfartsverket</organization>
-            <organizationUrl>http://www.lfv.se</organizationUrl>
+            <name>Reqstool Contributors</name>
+            <organization>reqstool</organization>
+            <organizationUrl>https://github.com/reqstool</organizationUrl>
         </developer>
     </developers>
 
