@@ -1,5 +1,5 @@
 // Copyright © LFV
-package se.lfv.reqstool.processor;
+package io.github.reqstool.processor;
 
 import java.util.Arrays;
 import java.util.Collections;
@@ -8,9 +8,9 @@ import javax.annotation.processing.Processor;
 import javax.annotation.processing.SupportedAnnotationTypes;
 import javax.lang.model.element.Element;
 import com.google.auto.service.AutoService;
-import se.lfv.reqstool.annotations.SVCs;
+import io.github.reqstool.annotations.SVCs;
 
-@SupportedAnnotationTypes("se.lfv.reqstool.annotations.SVCs")
+@SupportedAnnotationTypes("io.github.reqstool.annotations.SVCs")
 @AutoService(Processor.class)
 public class SVCsProcessor extends AbstractAnnotationsProcessor {
 

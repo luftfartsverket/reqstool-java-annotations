@@ -5,9 +5,9 @@ To add dependency using Maven, add the following to your `pom.xml`:
 [source,xml]
 ----
 <dependency>
-	<groupId>se.lfv.reqstool</groupId>
-	<artifactId>reqstool-annotations-java</artifactId>
-	<version>0.0.6</version>
+	<groupId>io.github.reqstool</groupId>
+	<artifactId>reqstool-java-annotations</artifactId>
+	<version>0.1.0</version>
 </dependency>
 ----
 

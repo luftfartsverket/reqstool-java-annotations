@@ -4,14 +4,14 @@
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>se.lfv.reqstool</groupId>
+    <groupId>io.github.reqstool</groupId>
     <artifactId>reqstool-java-annotations</artifactId>
-    <version>0.1.5</version>
+    <version>0.1.0</version>
     <packaging>jar</packaging>
 
     <name>${project.artifactId}</name>
     <description>Requirements Tools - Java Annotations</description>
-    <url>https://github.com/Luftfartsverket/reqstool-java-annotations</url>
+    <url>https://github.com/reqstool/reqstool-java-annotations</url>
 
     <licenses>
         <license>
@@ -22,24 +22,23 @@
 
     <developers>
         <developer>
-            <name>LFV System Development Team</name>
-            <email>sysdev@lfv.se</email>
-            <organization>Luftfartsverket</organization>
-            <organizationUrl>http://www.lfv.se</organizationUrl>
+            <name>Reqstool Contributors</name>
+            <organization>reqstool</organization>
+            <organizationUrl>https://github.com/reqstool</organizationUrl>
         </developer>
     </developers>
 
     <scm>
-        <connection>scm:git:https://github.com/Luftfartsverket/reqstool-java-annotations.git</connection>
-        <url>https://github.com/Luftfartsverket/reqstool-java-annotations</url>
+        <connection>scm:git:https://github.com/reqstool/reqstool-java-annotations.git</connection>
+        <url>https://github.com/reqstool/reqstool-java-annotations</url>
     </scm>
     <issueManagement>
         <system>Github</system>
-        <url>https://github.com/Luftfartsverket/reqstool-java-annotations/issues</url>
+        <url>https://github.com/reqstool/reqstool-java-annotations/issues</url>
     </issueManagement>
     <ciManagement>
         <system>Github</system>
-        <url>https://github.com/Luftfartsverket/reqstool-java-annotations/actions</url>
+        <url>https://github.com/reqstool/reqstool-java-annotations/actions</url>
     </ciManagement>
 
     <properties>

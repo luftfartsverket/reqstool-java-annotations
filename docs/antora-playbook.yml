@@ -2,7 +2,7 @@
 
 site:
   title: Reqstool Java Annotations Documentation
-  url: https://github.com/luftfartsverket/reqstool-java-annotations
+  url: https://github.com/reqstool/reqstool-java-annotations
   start_page: reqstool-java-annotations::index.adoc
 
 content:

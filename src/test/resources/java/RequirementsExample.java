@@ -1,7 +1,7 @@
 // Copyright © LFV
-package se.lfv.reqstool.annotations;
+package io.github.reqstool.annotations;
 
-import se.lfv.reqstool.annotations.Requirements;
+import io.github.reqstool.annotations.Requirements;
 
 @Requirements({ "REQ_001", "REQ_002", "REQ_003" })
 public class RequirementsExample {
