@@ -11,7 +11,7 @@
 
     <name>${project.artifactId}</name>
     <description>Requirements Tools - Java Annotations</description>
-    <url>https://github.com/Luftfartsverket/reqstool-java-annotations</url>
+    <url>https://github.com/reqstool/reqstool-java-annotations</url>
 
     <licenses>
         <license>
@@ -30,16 +30,16 @@
     </developers>
 
     <scm>
-        <connection>scm:git:https://github.com/Luftfartsverket/reqstool-java-annotations.git</connection>
-        <url>https://github.com/Luftfartsverket/reqstool-java-annotations</url>
+        <connection>scm:git:https://github.com/reqstool/reqstool-java-annotations.git</connection>
+        <url>https://github.com/reqstool/reqstool-java-annotations</url>
     </scm>
     <issueManagement>
         <system>Github</system>
-        <url>https://github.com/Luftfartsverket/reqstool-java-annotations/issues</url>
+        <url>https://github.com/reqstool/reqstool-java-annotations/issues</url>
     </issueManagement>
     <ciManagement>
         <system>Github</system>
-        <url>https://github.com/Luftfartsverket/reqstool-java-annotations/actions</url>
+        <url>https://github.com/reqstool/reqstool-java-annotations/actions</url>
     </ciManagement>
 
     <properties>
